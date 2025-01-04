@@ -1,10 +1,12 @@
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background:linear-gradient( to bottom, rgba(128, 0, 128, 0.201), rgba(0, 255, 255, 0.338));
+    margin: 0px;
 }
 .big_head{
          text-align: center;
          background-color: rgb(72, 6, 75);
-         margin: 0;
+         margin: 0 auto;
          padding-top: 10px;
          padding-bottom: 0px;
          font-size: 40px;
@@ -12,3 +14,17 @@ body{
          display: block;
          height: 70px;
 }
+.h_2nd{
+    background-color: rgb(0, 132, 240);
+    height: 50px;
+    text-align: center;
+    color: black;
+    border-top:8px solid white;
+    border-bottom:8px solid white;
+}
+.h_2nd_p{
+    font-size: 20px;
+    background-color: white;
+    width: 200px;
+    margin: 0 auto;
+}   
