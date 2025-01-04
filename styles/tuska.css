@@ -1,6 +1,6 @@
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background:linear-gradient( to bottom, rgba(128, 0, 128, 0.201), rgba(0, 255, 255, 0.338));
+    background:linear-gradient( to bottom, rgba(128, 0, 128, 0.448), rgba(0, 255, 255, 0.552));
     margin: 0px;
 }
 .big_head{
@@ -27,4 +27,16 @@ body{
     background-color: white;
     width: 200px;
     margin: 0 auto;
-}   
+} 
+ul{
+    color:  rgb(72, 6, 75);
+}  
+.li{
+    color: black;
+}
+.mid{
+    text-align: center;
+    top: 0%;
+    font-size: 20px;
+    margin: 0 auto;
+}
