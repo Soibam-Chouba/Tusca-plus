@@ -12,18 +12,20 @@ body{
          font-size: 40px;
          color: white;        
          display: block;
-         height: 70px;
+         height: 70px;   
 }
 .h_2nd{
     background-color: rgb(0, 132, 240);
-    height: 50px;
+    height: 45px;
     text-align: center;
     color: black;
     border-top:8px solid white;
     border-bottom:8px solid white;
+    padding-top: 10px;
+    padding-bottom:0px;
 }
 .h_2nd_p{
-    font-size: 20px;
+    font-size: 30px;
     background-color: white;
     width: 200px;
     margin: 0 auto;
@@ -37,6 +39,27 @@ ul{
 .mid{
     text-align: center;
     top: 0%;
-    font-size: 20px;
+    font-size: 30px;
     margin: 0 auto;
+}
+.mid_out{
+    text-align: center;
+    font-size: 25px;
+    margin: 0 auto;
+    width: 140px;
+}
+.mid_in{
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+}
+.img1{
+    float: left;
+    padding-left: 30px;
+    margin-right: 10px;
+}
+.img2{
+    float: right;
+    padding-right: 30px;
+    margin: 10px;
 }
