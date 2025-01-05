@@ -66,6 +66,7 @@ ul{
     width: 200px;
 }
 .img2{
+    display: inline;
     float: right;
     padding-right: 30px;
     margin: 10px;
