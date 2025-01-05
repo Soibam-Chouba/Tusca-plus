@@ -56,7 +56,14 @@ ul{
 .img1{
     float: left;
     padding-left: 30px;
+    padding-top: 35px;
     margin-right: 10px;
+}
+.square{
+    font-size: 30px;
+    padding-top: 50px;
+    display: inline-block;
+    width: 200px;
 }
 .img2{
     float: right;
